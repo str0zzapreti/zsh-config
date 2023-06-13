@@ -1,0 +1,46 @@
+<scheme name="Darcula edit" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2023-05-21T15:19:44</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2023-05-21T15:20:28</property>
+    <property name="originalScheme">Darcula edit</property>
+  </metaInfo>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="252525" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="ff7883" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6677ff" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="3ac4d3" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="168e96" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="252525" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
